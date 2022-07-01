@@ -1,1 +1,1 @@
-# newappcounter
+# una simple counterApp en react 
